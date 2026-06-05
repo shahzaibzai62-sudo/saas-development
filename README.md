@@ -1,5 +1,5 @@
 # saas-development
-> - AI Automation. Now also add/update: - Mobile App Development
+> - AI Automation. Now also add/update: - Next.js
 
 ## Live Demo
 https://shahzaibzai62-sudo.github.io/saas-development
