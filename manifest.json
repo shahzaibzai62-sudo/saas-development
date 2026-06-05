@@ -1,7 +1,7 @@
 {
   "name": "saas-development",
   "short_name": "saas-develop",
-  "description": "- AI Automation",
+  "description": "- AI Automation. Now also add/update: - Mobile App Development",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#0f0e17",
