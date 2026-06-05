@@ -1,5 +1,5 @@
 # saas-development
-> - AI Automation. Now also add/update: - Next.js
+> - AI Automation. Now also add/update: - TypeScript
 
 ## Live Demo
 https://shahzaibzai62-sudo.github.io/saas-development
