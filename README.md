@@ -1,5 +1,5 @@
 # saas-development
-> - AI Automation. Now also add/update: - TypeScript
+> - AI Automation. Now also add/update: - Supabase
 
 ## Live Demo
 https://shahzaibzai62-sudo.github.io/saas-development
