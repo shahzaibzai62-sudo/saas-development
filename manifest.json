@@ -1,7 +1,7 @@
 {
   "name": "saas-development",
   "short_name": "saas-develop",
-  "description": "- AI Automation. Now also add/update: - Supabase",
+  "description": "- AI Automation. Now also add/update: - Firebase",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#0f0e17",
